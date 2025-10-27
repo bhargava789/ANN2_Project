@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+torchvision
+torchaudio
+transformers
+scikit-learn
+nltk
+gensim
+tqdm
